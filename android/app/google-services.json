@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905440480868",
+    "project_id": "cdio-project-b83f6",
+    "storage_bucket": "cdio-project-b83f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905440480868:android:21657c3e4226aa9215d971",
+        "android_client_info": {
+          "package_name": "com.example.cdio_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdixGJLmtIfrrPkdodFVeDavz903DBH-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
